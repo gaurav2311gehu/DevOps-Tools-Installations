@@ -26,7 +26,7 @@ The script performs the following actions:
 ### 1️ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/DevOps-Tools-Installations.git
+git clone https://github.com/gaurav2311gehu/DevOps-Tools-Installations.git
 cd DevOps-Tools-Installations/jenkins
 
 ## Grant Execute Permission
